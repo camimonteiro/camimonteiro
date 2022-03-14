@@ -18,7 +18,8 @@ class Skills extends Developer {
   languages  = ['JavaScript, Swift, SQL, HTML5 and CSS3'];
   libraries  = ['JQuery'];
   frameworks = ['Bootstrap'];
-  tools      = ['Vscode, XCode, mySQL, mySQL Workbench, Git and GitHub']; 
+  tools      = ['Vscode, XCode, mySQL, mySQL Workbench, Git and
+  GitHub']; 
 }
 ```
 ### 📬 Find me at
