@@ -10,8 +10,8 @@ class AboutMe extends Developer {
   nickname = 'Cami'
   pronouns = 'She/her'
   age      = 31
-  area     = 'Studying web development (backend) and mobile (iOs)';
-  local    = 'Niterói / RJ - Brazil';
+  area   = 'Studying web development (backend) and mobile (iOs)';
+  local  = 'Niterói / RJ - Brazil';
 }
 
 class Skills extends Developer {
@@ -52,32 +52,16 @@ I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing 
   </a>
 </p>
 
-<!-- ### Projects / Sprints in progress <img src="https://media3.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif?cid=ecf05e474ln0cmjb2cxxar5b5m2bznyg26ybephuf1zdhljb&rid=giphy.gif&ct=s" width="80" height="80" frameBorder="0"> 
+### Projects / Sprints in progress <img src="https://media3.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif?cid=ecf05e474ln0cmjb2cxxar5b5m2bznyg26ybephuf1zdhljb&rid=giphy.gif&ct=s" width="80" height="80" frameBorder="0"> 
 <p align="center">
   <a href="https://github.com/camimonteiro/Project_App_ConversorDeBolso">
-    <img
-      align="center"
-      height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=camimonteiro&repo=camimonteiro&theme=radical">
-    </img>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=camimonteiro&repo=camimonteiro&theme=radical"></img>
   </a>
-</p>
-<p align="center">
   <a href="https://github.com/camimonteiro/Project_FrontEnders_Mod2">
-    <img
-      align="center"
-      height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=camimonteiro&repo=camimonteiro&theme=radical">
-    </img>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=camimonteiro&repo=camimonteiro&theme=radical"></img>
   </a>
-</p>
-<p align="center">
   <a href="https://github.com/camimonteiro/Game_SaidaEscarlate">
-    <img
-      align="center"
-      height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=camimonteiro&repo=camimonteiro&theme=radical">
-    </img>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=camimonteiro&repo=camimonteiro&theme=radical"></img>
   </a>
 </p>
- -->
+
