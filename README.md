@@ -24,12 +24,32 @@ class Skills extends Developer {
   GitHub']; 
 }
 ```
+<p align="left">
+   <a href="https://code.visualstudio.com/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+   </a>
+   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/>
+   </a>
+   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/>
+   </a>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+   </a>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/mysql/mysql-original-wordmark.svg" alt="mySQL" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
+   <img src="https://cdn-icons-png.flaticon.com/512/179/179309.png" alt="iOS" width="40" height="40"/>
+</p>
+
 ### 📬 Find me at
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/camimonteiro)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/camillemonteiro/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/camsmonteiro/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:camillemonteiro.dev@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/camimonteiro)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camillemonteiro/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/camsmonteiro/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camillemonteiro.dev@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CamiMonteiro)
 
 ### 👩‍💻 A little about me... 
