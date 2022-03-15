@@ -53,16 +53,6 @@ I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing 
 </p>
 
 ### Projects / Sprints in progress <img src="https://media3.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif?cid=ecf05e474ln0cmjb2cxxar5b5m2bznyg26ybephuf1zdhljb&rid=giphy.gif&ct=s" width="80" height="80" frameBorder="0"> 
-<p align="center">
-  <a href="https://github.com/camimonteiro/Project_App_ConversorDeBolso">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=camimonteiro&repo=Project_App_ConversorDeBolso&theme=radical"></img>
-  </a>
-  <a href="https://github.com/camimonteiro/Project_FrontEnders_Mod2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=camimonteiro&repo=Project_FrontEnders_Mod2&theme=radical"></img>
-  </a>
-  <a href="https://github.com/camimonteiro/Game_SaidaEscarlate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=camimonteiro&repo=Game_SaidaEscarlate&theme=radical"></img>
-  </a>
-</p>
+
 
  ![Snake animation](https://github.com/camimonteiro/camimonteiro/blob/output/github-contribution-grid-snake.svg)
