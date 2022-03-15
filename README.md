@@ -1,7 +1,9 @@
 ### 
 <h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, <a href="https://github.com/camimonteiro">Cami</a> here! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer and coffee"/>
+<img align="right" width="300" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" alt="computer and coffee"/>
+
+<!-- https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png -->
 
 ```js
 import Developer from 'Cami Monteiro';
@@ -30,8 +32,12 @@ class Skills extends Developer {
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CamiMonteiro)
 
-### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-<!-- I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing CSE. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/> -->
+### 👩‍💻 A little about me... 
+I find myself migrating career! Ready for new challenges and to discover an area that I have always loved and been passionate about: technology and development.
+
+I'm a graduate and postgraduate in the area of Management and Cultural Policies, but at the moment I'm on a career path and I'm studying at Resilia to become WebDev Full Stack. An intense immersion of learning that made me realize that I'm on the right path. After finishing the first two modules I already learned HTML5, CSS3, Bootstrap, JavaScript, JQuery, Git, GitHub and I continue to learn more every day. I am currently studying Relational Databases (mySQL). In parallel, I have been learning about iOS mobile development (Swift / Swift UI) in a 1-1 mentorship with Michelli Cristina (https://github.com/mihcristina) and with the support of the Plataform Dupla.
+
+I'm always open to collaboration, dialogues and feedback! Let's talk? ☕️
 
 ### My Status <img src="https://media3.giphy.com/media/l46CxDIh6HDiH9ndm/giphy.gif?cid=790b7611aea2f6594b0e363ddc39e1bdf3bbcd3c5a92d9c4&rid=giphy.gif&ct=s" width="50"> 
 
@@ -52,7 +58,9 @@ class Skills extends Developer {
   </a>
 </p>
 
-### Projects / Sprints in progress <img src="https://media3.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif?cid=ecf05e474ln0cmjb2cxxar5b5m2bznyg26ybephuf1zdhljb&rid=giphy.gif&ct=s" width="80" height="80" frameBorder="0"> 
+### <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="40"> Projects / Sprints in progress 
+  
+<!--   https://media3.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif?cid=ecf05e474ln0cmjb2cxxar5b5m2bznyg26ybephuf1zdhljb&rid=giphy.gif&ct=s"  -->
 <p align="center">
   <a href="https://github.com/camimonteiro/Project_App_ConversorDeBolso">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=camimonteiro&repo=Project_App_ConversorDeBolso&theme=radical"></img>
