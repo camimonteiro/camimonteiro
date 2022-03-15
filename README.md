@@ -65,3 +65,4 @@ I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing 
   </a>
 </p>
 
+ ![Snake animation](https://github.com/camimonteiro/camimonteiro/blob/output/github-contribution-grid-snake.svg)
