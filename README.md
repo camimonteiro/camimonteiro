@@ -25,24 +25,25 @@ class Skills extends Developer {
 }
 ```
 <p align="left">
-   <a href="https://code.visualstudio.com/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-   </a>
-   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/>
-   </a>
-   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/>
-   </a>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-   </a>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/mysql/mysql-original-wordmark.svg" alt="mySQL" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
-   <img src="https://cdn-icons-png.flaticon.com/512/179/179309.png" alt="iOS" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/179/179309.png" alt="iOS" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/mysql/mysql-original-wordmark.svg" alt="mySQL" width="40" height="40"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40"/>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <a href="https://code.visualstudio.com/">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+  </a>
+   
 </p>
 
 ### 📬 Find me at
@@ -55,7 +56,7 @@ class Skills extends Developer {
 ### 👩‍💻 A little about me... 
 I find myself migrating career! Ready for new challenges and to discover an area that I have always loved and been passionate about: technology and development.
 
-I'm a graduate and postgraduate in the area of Management and Cultural Policies, but at the moment I'm on a career path and I'm studying at Resilia to become WebDev Full Stack. An intense immersion of learning that made me realize that I'm on the right path. After finishing the first two modules I already learned HTML5, CSS3, Bootstrap, JavaScript, JQuery, Git, GitHub and I continue to learn more every day. I am currently studying Relational Databases (mySQL). In parallel, I have been learning about iOS mobile development (Swift / Swift UI) in a 1-1 mentorship with Michelli Cristina (https://github.com/mihcristina) and with the support of the Plataform Dupla.
+I'm a graduate and postgraduate in the area of Management and Cultural Policies, but at the moment I'm on a career path and I'm studying at <a href="https://www.instagram.com/resilia.br/">Resilia</a> to become WebDev Full Stack. An intense immersion of learning that made me realize that I'm on the right path. After finishing the first two modules I already learned HTML5, CSS3, Bootstrap, JavaScript, JQuery, Git, GitHub and I continue to learn more every day. I am currently studying Relational Databases (mySQL). In parallel, I have been learning about iOS mobile development (Swift / Swift UI) in a 1-1 mentorship with <a href="https://github.com/mihcristina">Michelli Cristina</a> and with the support of the <a href="https://duplatech.com">Plataform Dupla</a>.
 
 I'm always open to collaboration, dialogues and feedback! Let's talk? ☕️
 
