@@ -17,11 +17,11 @@ class AboutMe extends Developer {
 }
 
 class Skills extends Developer {
-  languages  = ['JavaScript, Swift, SQL, HTML5 and CSS3'];
+  languages  = ['JavaScript', 'Swift', 'SQL', 'HTML5', 'CSS3'];
   libraries  = ['JQuery'];
-  frameworks = ['Bootstrap'];
-  tools      = ['Vscode, XCode, mySQL, mySQL Workbench, Git and
-  GitHub']; 
+  frameworks = ['SwiftUI', 'Bootstrap'];
+  tools      = ['Vscode', 'XCode', 'mySQL', 'mySQL Workbench', 'Git',
+  'GitHub']; 
 }
 ```
 <p align="left">
@@ -85,9 +85,6 @@ I'm always open to collaboration, dialogues and feedback! Let's talk? ☕️
 <p align="center">
   <a href="https://github.com/camimonteiro/Project_App_MyBookcase">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=camimonteiro&repo=Project_App_MyBookcase&theme=radical"></img>
-  </a>
-  <a href="https://github.com/camimonteiro/Project_App_MyGames">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=camimonteiro&repo=Project_App_MyGames&theme=radical"></img>
   </a>
   <a href="https://github.com/camimonteiro/Project_App_ConversorDeBolso">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=camimonteiro&repo=Project_App_ConversorDeBolso&theme=radical"></img>
