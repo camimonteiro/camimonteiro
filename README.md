@@ -20,8 +20,8 @@ class Skills extends Developer {
   languages  = ['JavaScript', 'Swift', 'SQL', 'HTML5', 'CSS3'];
   libraries  = ['JQuery'];
   frameworks = ['SwiftUI', 'Bootstrap'];
-  tools      = ['Vscode', 'XCode', 'mySQL', 'mySQL Workbench', 'Git',
-  'GitHub']; 
+  tools      = ['Vscode', 'XCode', 'mySQL', 'mySQL Workbench', 
+  'Git', 'GitHub']; 
 }
 ```
 <p align="left">
