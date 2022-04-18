@@ -1,9 +1,8 @@
 ### 
 <h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, <a href="https://github.com/camimonteiro">Cami</a> here! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
 
-<img align="right" width="300" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" alt="computer and coffee"/>
-
-<!-- https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png -->
+<img align="right" width="300" src="https://raw.githubusercontent.com/camimonteiro/camimonteiro/main/img/Memoji%20-%20Camille_redondo_oi.png" alt="Hi memoji Camille"/>
+<!-- <img align="right" width="300" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" alt="computer and coffee"/> -->
 
 ```js
 import Developer from 'Cami Monteiro';
