@@ -7,20 +7,21 @@
 ```js
 import Developer from 'Cami Monteiro';
 class AboutMe extends Developer {
-  name     = 'Camille Monteiro';
+  name = 'Camille Monteiro';
   nickname = 'Cami'
   pronouns = 'She/her'
-  age      = 31
-  area   = 'Studying web development (backend) and mobile (iOs)';
-  local  = 'Niterói / RJ - Brazil';
+  age = 31
+  area = 'Studying mobile (iOs) and web development (backend)';
+  local = 'Niterói / RJ - Brazil';
 }
 
 class Skills extends Developer {
   languages  = ['JavaScript', 'Swift', 'SQL', 'HTML5', 'CSS3'];
   libraries  = ['JQuery'];
-  frameworks = ['SwiftUI', 'Bootstrap'];
-  tools      = ['Vscode', 'XCode', 'mySQL', 'mySQL Workbench', 
-  'Git', 'GitHub']; 
+  frameworks = ['SwiftUI', 'UiKit', 'Viewcode', 'Bootstrap'];
+  architectures = ['MVC', 'MVP', 'MVVM']
+  tools = ['Vscode', 'XCode', 'mySQL', 'mySQL Workbench', 'Git',
+  'GitHub']; 
 }
 ```
 <p align="left">
@@ -82,6 +83,9 @@ I'm always open to collaboration, dialogues and feedback! Let's talk? ☕️
   
 <!--   https://media3.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif?cid=ecf05e474ln0cmjb2cxxar5b5m2bznyg26ybephuf1zdhljb&rid=giphy.gif&ct=s"  -->
 <p align="center">
+  <a href="https://github.com/camimonteiro/Project_API_Bookstore">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=camimonteiro&repo=Project_API_Bookstore&theme=radical"></img>
+  </a>
   <a href="https://github.com/camimonteiro/Project_App_MyBookcase">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=camimonteiro&repo=Project_App_MyBookcase&theme=radical"></img>
   </a>
