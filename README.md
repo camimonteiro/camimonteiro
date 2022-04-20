@@ -22,7 +22,7 @@ class Skills extends Developer {
   architectures = ['MVC', 'MVP', 'MVVM']
   libraries  = ['JQuery'];
   tools = ['Node.js', 'Git', 'mySQL', 'mySQL Workbench', 
-  'GitHub', 'Vscode', 'XCode',]; 
+  'GitHub', 'Vscode', 'XCode']; 
 }
 ```
 <p align="left">
