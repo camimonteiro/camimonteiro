@@ -19,7 +19,7 @@ class Skills extends Developer {
   languages  = ['JavaScript', 'Swift', 'SQL', 'HTML5', 'CSS3'];
   frameworks = ['SwiftUI', 'UiKit', 'Viewcode', 'Bootstrap',
   'Express.js'];
-  architectures = ['MVC', 'MVP', 'MVVM']
+  architectures = ['MVC', 'MVP', 'MVVM'];
   libraries  = ['JQuery'];
   tools = ['Node.js', 'Git', 'mySQL', 'mySQL Workbench', 
   'GitHub', 'Vscode', 'XCode']; 
