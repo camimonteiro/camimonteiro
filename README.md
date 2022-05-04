@@ -16,13 +16,13 @@ class AboutMe extends Developer {
 }
 
 class Skills extends Developer {
-  languages  = ['JavaScript', 'Swift', 'SQL', 'HTML5', 'CSS3'];
+  languages  = ['JavaScript', 'Swift', 'SQL', 'noSQL', 'HTML5', 'CSS3'];
   frameworks = ['SwiftUI', 'UiKit', 'Viewcode', 'Bootstrap',
-  'Express.js'];
+  'Express'];
   architectures = ['MVC', 'MVP', 'MVVM'];
   libraries  = ['JQuery'];
-  tools = ['Node.js', 'Git', 'mySQL', 'mySQL Workbench', 
-  'GitHub', 'Vscode', 'XCode']; 
+  tools = ['Node', 'Git', 'mySQL', 'mySQL Workbench', 
+  'mongoDB', 'Tableau', 'GitHub', 'Vscode', 'XCode']; 
 }
 ```
 <p align="left">
