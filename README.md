@@ -85,8 +85,8 @@ I'm always open to collaboration, dialogues and feedback! Let's talk? ☕️
   
 <!--   https://media3.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif?cid=ecf05e474ln0cmjb2cxxar5b5m2bznyg26ybephuf1zdhljb&rid=giphy.gif&ct=s"  -->
 <p align="center">
-  <a href="https://github.com/camimonteiro/Project_API_Bookstore">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=camimonteiro&repo=Project_API_Bookstore&theme=radical"></img>
+  <a href="https://github.com/camimonteiro/Project_App_MyMovies">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=camimonteiro&repo=Project_App_MyMovies&theme=radical"></img>
   </a>
   <a href="https://github.com/camimonteiro/Project_App_MyBookcase">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=camimonteiro&repo=Project_App_MyBookcase&theme=radical"></img>
