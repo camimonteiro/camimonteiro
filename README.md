@@ -58,7 +58,7 @@ class Skills extends Developer {
 ### 👩‍💻 A little about me... 
 I find myself migrating career! Ready for new challenges and to discover an area that I have always loved and been passionate about: technology and development.
 
-I am a graduate and postgraduate in the area of Management and Cultural Policies, but at the moment I am studying at <a href="https://www.instagram.com/resilia.br/">Resilia</a> to become WebDev Full Stack. An intense learning immersion that made me realize that I'm on the right track. After finishing four modules I have already learned HTML, CSS, Node, JavaScript, Git, Bootstrap, SQL (mySQL), NoSQL (MongoDB), Express, Scrum and Kanban and I continue to learn more every day. At the same time, I have been learning about iOS mobile development (Swift/Swift UI) in a 1-1 mentorship with <a href="https://github.com/mihcristina">Michelli Cristina</a> and with the support of the <a href="https://duplatech.com">Plataform Dupla</a>. I also take two postgraduate courses in: Product and Project Management of Multiplatform Mobile Applications (Flutter and React Native).
+I have a degree and a postgraduate degree in Management and Cultural Policies, and I am currently doing a graduate degree in Software Engineering from Anhanguera. At the moment I work as an iOS Software Engineer at Neon. I study swift (UIKit and Viewcode), swiftUI and clean code, but I'm always looking for new learning. I'm very creative and that's why I'm always creating new projects and collaborating on the ones I can.
 
 I'm always open to collaboration, dialogues and feedback! Let's talk? ☕️
 
